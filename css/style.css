@@ -10,13 +10,13 @@ body{
 /* ------------ container ------------ */
 .container{
     padding:10px;
-    width:350px;
+    width:340px;
     margin:0 auto;
 }
 
 /* ------------ header ------------ */
 .header{
-    width: 350px;
+    width: 340px;
     height:120px;
     background-image: url('../img/d3.jpg');
     background-size: 100% 200%;
@@ -51,7 +51,7 @@ body{
 
 /* ------------ content ------------ */
 .content{
-    width:350px;
+    width:340px;
     height: 440px;
     max-height:440px;
     background-color: #FFF;
@@ -115,7 +115,7 @@ body{
 /* ------------ add item ------------ */
 .add-to-do{
     position: relative;
-    width: 330px;
+    width: 320px;
     height:40px;
     background-color: #FFF;
     padding: 10px;
