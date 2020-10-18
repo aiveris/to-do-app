@@ -16,7 +16,7 @@ body{
 
 /* ------------ header ------------ */
 .header{
-    width: 300px;
+    width: 340px;
     height:120px;
     background-image: url('../img/d3.jpg');
     background-size: 100% 200%;
@@ -51,9 +51,9 @@ body{
 
 /* ------------ content ------------ */
 .content{
-    width:300px;
-    height: 350px;
-    max-height:350px;
+    width:340px;
+    height: 400px;
+    max-height:400px;
     background-color: #FFF;
     overflow: auto;
 
@@ -66,7 +66,7 @@ body{
     margin:0;
 }
 .item{
-    width:300px;
+    width:340px;
     height: 45px;
     min-height: 45px;
     position: relative;
@@ -115,7 +115,7 @@ body{
 /* ------------ add item ------------ */
 .add-to-do{
     position: relative;
-    width: 280px;
+    width: 320px;
     height:40px;
     background-color: #FFF;
     padding: 10px;
@@ -161,33 +161,7 @@ body{
 
 
 
-@media (max-width: 767px){
-   
-    body{
-    max-width:50%;
-    }
 
-    .container{
-    padding:10px;
-    max-width:50%;
-    margin:0 auto;
-    }
-
-   
-    .about .contentBx{
-    min-width: 100%;
-    width: 100%;
-    text-align: center;
-    padding-right: 0px;
-    }
-  
-    .destination .destinationList .box{
-    position: relative;
-    max-width: 350px;
-    min-width: initial;
-    width: 350px;
-    height: 400px;
-    }
    
 
 
